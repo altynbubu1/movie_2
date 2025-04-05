@@ -13,3 +13,4 @@ class  Movie(models.Model):
 
 class Actor(models.Model):
     pass
+
